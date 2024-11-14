@@ -25,23 +25,20 @@ Leveraging Artificial Intelligence (AI), the MediSync app utilizes a machine lea
 
 ## Installation  
 
-*Instructions on how to install and set up the application will go here.*  
+ 
 
 ## Usage  
 
-*Instructions on how to use the application will go here.*  
+
 
 ## Contributing  
-
-*Guidelines for contributing to the project will go here.*  
+ 
 
 ## License  
 
-*Information about the project's license will go here.*  
+ 
 
-## Contact  
 
-For questions or feedback, please contact [Your Name] at [Your Email].  
 
 ---  
 
